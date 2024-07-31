@@ -1,0 +1,13 @@
+.buu {
+    width: 100%;
+    background-color: blueviolet;
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;
+}
+
+.buu:disabled {
+    background-color: #888;
+    cursor: not-allowed;
+}
